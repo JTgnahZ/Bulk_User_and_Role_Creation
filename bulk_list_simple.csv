@@ -1,0 +1,3 @@
+first_name,email,roles,enable_session_ip_lock,last_name,password,repeatPassword
+att-tester-1,demo1@ebob9.com,"tenant_viewonly,tenant_iam_admin",True,USER,CloudGenix123!,CloudGenix123!
+att-tester-2,att-test92@gmail.com,"tenant_viewonly,tenant_security_admin,tenant_iam_admin",True,USER,CloudGenix123!,CloudGenix123!
